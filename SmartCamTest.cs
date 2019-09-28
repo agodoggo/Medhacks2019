@@ -1,5 +1,7 @@
 // Initialize logging to output all messages with severity level INFO or higher to the console
-     Framosai.FAIM.Api.InitialiseLogging(Framosai.FAIM.LogLevel.FAIM_LL_ERROR, bWriteToConsole: true, bWriteToFile: false);
+    bool bWriteToConsole = true;
+    bool bWriteToFile = false;
+    Framosai.FAIM.Api.initialise_logging(Framosai.FAIM.LogLevel.FAIM_LL_ERROR, bWriteToConsole, bWriteToFile);
     // Query the FAIM_SDK variable to access the installed models, test images, and the activation key
 var faimDir = Environment.GetEnvironmentVariable("FAIM_SDK", EnvironmentVariableTarget.Machine);
 Framosai.FAIM.SkeletonTracking.Api skeletontrackingApi = new Framosai.FAIM.SkeletonTracking.Api(faimDir + "\\activation_key.txt");                
@@ -36,3 +38,5 @@ foreach (var skeleton in skeletons)
             ystem.Windows.Media.Media3D.Point3D worldCoordinates = 
         DepthMapHelpers.WorldCoordinate(averageDepth, (int)coordinate.x, (int)coordinate.y, intrinsicsDepthImagerMaster.fx, 
                                         intrinsicsDepthImagerMaster.fy, intrinsicsDepthImagerMaster.ppx, intrinsicsDepthImagerMaster.ppy);
+        }
+    }

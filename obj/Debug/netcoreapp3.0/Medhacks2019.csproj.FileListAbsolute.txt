@@ -1,0 +1,11 @@
+C:\Users\Agoston\Documents\JHU_MedHacks_2019\Medhacks2019\obj\Debug\netcoreapp3.0\Medhacks2019.csprojAssemblyReference.cache
+C:\Users\Agoston\Documents\JHU_MedHacks_2019\Medhacks2019\obj\Debug\netcoreapp3.0\Medhacks2019.AssemblyInfoInputs.cache
+C:\Users\Agoston\Documents\JHU_MedHacks_2019\Medhacks2019\obj\Debug\netcoreapp3.0\Medhacks2019.AssemblyInfo.cs
+C:\Users\Agoston\Documents\JHU_MedHacks_2019\Medhacks2019\bin\Debug\netcoreapp3.0\Medhacks2019.exe
+C:\Users\Agoston\Documents\JHU_MedHacks_2019\Medhacks2019\bin\Debug\netcoreapp3.0\Medhacks2019.deps.json
+C:\Users\Agoston\Documents\JHU_MedHacks_2019\Medhacks2019\bin\Debug\netcoreapp3.0\Medhacks2019.runtimeconfig.json
+C:\Users\Agoston\Documents\JHU_MedHacks_2019\Medhacks2019\bin\Debug\netcoreapp3.0\Medhacks2019.runtimeconfig.dev.json
+C:\Users\Agoston\Documents\JHU_MedHacks_2019\Medhacks2019\bin\Debug\netcoreapp3.0\Medhacks2019.dll
+C:\Users\Agoston\Documents\JHU_MedHacks_2019\Medhacks2019\bin\Debug\netcoreapp3.0\Medhacks2019.pdb
+C:\Users\Agoston\Documents\JHU_MedHacks_2019\Medhacks2019\obj\Debug\netcoreapp3.0\Medhacks2019.dll
+C:\Users\Agoston\Documents\JHU_MedHacks_2019\Medhacks2019\obj\Debug\netcoreapp3.0\Medhacks2019.pdb

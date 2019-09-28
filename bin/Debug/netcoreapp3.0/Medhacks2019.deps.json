@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Medhacks2019/1.0.0": {
+        "runtime": {
+          "Medhacks2019.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Medhacks2019/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
